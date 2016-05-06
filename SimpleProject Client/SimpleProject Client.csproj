@@ -92,11 +92,7 @@
     <Compile Include="Assets\UI\SceneGame\Simplus\Simplus.cs" />
     <Compile Include="Assets\UI\SceneGame\other\GameManager.cs" />
     <Compile Include="Assets\UI\SceneGame\other\MyButton.cs" />
-<<<<<<< HEAD
-=======
-    <Compile Include="Assets\UI\SceneGame\Simplus\SimplusLink.cs" />
     <Compile Include="Assets\UI\SceneMenu\GUI\Chat\ChatHistory.cs" />
->>>>>>> origin/master
     <Compile Include="Assets\UI\SceneMenu\GUI\GUIAccount.cs" />
     <Compile Include="Assets\UI\SceneMenu\GUI\GUIChat.cs" />
     <Compile Include="Assets\UI\SceneMenu\GUI\GUIProfile.cs" />
